@@ -3,7 +3,7 @@
 in oder to learn more about git and github, I created this project.
 
 Init:
-```powershell
+```bash
 echo "# DEMO1" >> README.md
 git init
 git add README.md
@@ -15,6 +15,7 @@ git remote add origin https://github.com/XLYing23333/Demo1.git
 Debian Terminal：
 git remote add origin git@github.com:XLYing23333/EX1.git
 change: add -> set-url
+
 git push -u origin main
 ```
 
